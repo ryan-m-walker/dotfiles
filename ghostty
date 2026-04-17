@@ -1,0 +1,7 @@
+theme = dark:Monokai Pro,light:Dawnfox
+background-opacity = 0.85
+background-blur-radius = 40
+window-padding-x = 8
+window-padding-y = 8
+keybind = command+k=text:\x0c
+macos-titlebar-proxy-icon = hidden
